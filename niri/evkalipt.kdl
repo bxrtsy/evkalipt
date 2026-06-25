@@ -1,0 +1,30 @@
+overview {
+	backdrop-color "#101210"
+}
+
+layout {
+	background-color "#101210"
+
+	// Focus ring
+
+	focus-ring {
+		active-color "#f8fff0"
+		inactive-color "#8fcf80"
+		urgent-color "#cf8f80"		
+	}
+
+	// Border
+
+	focus-ring {
+		off
+	}
+
+	border {
+		on
+		active-color "#f8fff0"
+		inactive-color "#8fcf80"
+		urgent-color "#cf8f80"
+	}
+
+	insert-hint { color "#cfffc080"; }
+}
