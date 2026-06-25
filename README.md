@@ -6,8 +6,8 @@ A green theme with faint colors.
 
 ## Ports
 
-* Alacritty
-* Fuzzel
+* [Alacritty](https://github.com/alacritty/alacritty)
+* [Fuzzel](https://codeberg.org/dnkl/fuzzel)
 * [Kew](https://github.com/ravachol/kew)
 * [Niri](https://github.com/YaLUG/niri)
 
@@ -15,6 +15,6 @@ A green theme with faint colors.
 
 * ["Occlusion"](wallpapers/Occlusion.png)
 
-## Licenses
+## License
 
 This project is licensed under CC0 1.0 Universal.
